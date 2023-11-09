@@ -7,5 +7,6 @@ There was the use:
 <li>selenium
 <li>postgresql
 <ul>
+----
 To run the code - insert your urls, compose docker and run avito_parser.py
-[Dashboard](Result_of_anlysis.png)
+[Dashboard](Parse-and-analys/Result_of_anlysis.png)
