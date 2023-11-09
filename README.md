@@ -10,4 +10,6 @@ There was the use:
 
 ----
 To run the code - insert your urls, compose docker and run avito_parser.py
-[Dashboard](https://github.com/artur2525/Parse-and-analys/blob/main/Result_of_analysis.png)
+
+
+![Dashboard](https://github.com/artur2525/Parse-and-analys/blob/main/Result_of_analysis.png)
